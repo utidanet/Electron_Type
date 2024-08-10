@@ -1,0 +1,11 @@
+# 特定のフォルダを除外
+node_modules/
+dist/
+Electron_Type/
+# 特定のファイルを除外
+#.env
+#config.json
+
+# 特定のファイルタイプを除外
+#*.log
+#*.tmp
